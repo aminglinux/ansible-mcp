@@ -13,17 +13,21 @@
 ```bash
 pip install -r requirements.txt
 uvicorn main:app --reload --host 0.0.0.0 --port 8080
+```
 
 ### Docker 运行
 ```bash
 docker build -t ansible-mcp .
 docker run -p 8080:8080 ansible-mcp
+```
 
 ### 测试接口
 ```bash
 curl -N -X POST http://localhost:8080/tools/run_playbook \
   -H "Content-Type: application/json" \
   -d '{"playbook":"./site.yml"}'
+```
 
 ## 接入Dify/Coze
-在 MCP 配置中填入： http://<your-host>:8080/.well-known/mcp.json
+在 MCP 配置中填入： 
+http://<your-host>:8080/.well-known/mcp.json
