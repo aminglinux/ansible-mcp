@@ -1,0 +1,117 @@
+INFO:     192.168.186.138:56788 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:56798 - "POST /sse/messages/?session_id=9a981ec87c104dabb1c0b30c0d8e2368 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:56800 - "POST /sse/messages/?session_id=9a981ec87c104dabb1c0b30c0d8e2368 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:56812 - "POST /sERROR:fastapi_mcp.server:Error calling list_inventory
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/fastapi_mcp/server.py", line 559, in _execute_api_tool
+    raise Exception(
+Exception: Error calling list_inventory. Status code: 422. Response: {"detail":[{"type":"missing","loc":["body"],"msg":"Field required","input":null}]}
+ERROR:fastapi_mcp.server:Error calling list_hosts
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/fastapi_mcp/server.py", line 559, in _execute_api_tool
+    raise Exception(
+Exception: Error calling list_hosts. Status code: 422. Response: {"detail":[{"type":"missing","loc":["body"],"msg":"Field required","input":null}]}
+ERROR:fastapi_mcp.server:Error calling list_hosts
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/fastapi_mcp/server.py", line 559, in _execute_api_tool
+    raise Exception(
+Exception: Error calling list_hosts. Status code: 422. Response: {"detail":[{"type":"missing","loc":["body"],"msg":"Field required","input":null}]}
+ERROR:fastapi_mcp.server:Error calling list_hosts
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/fastapi_mcp/server.py", line 559, in _execute_api_tool
+    raise Exception(
+Exception: Error calling list_hosts. Status code: 422. Response: {"detail":[{"type":"missing","loc":["body"],"msg":"Field required","input":null}]}
+ERROR:fastapi_mcp.server:Error calling list_hosts
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/fastapi_mcp/server.py", line 559, in _execute_api_tool
+    raise Exception(
+Exception: Error calling list_hosts. Status code: 422. Response: {"detail":[{"type":"missing","loc":["body"],"msg":"Field required","input":null}]}
+ERROR:fastapi_mcp.server:Error calling list_inventory
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/fastapi_mcp/server.py", line 559, in _execute_api_tool
+    raise Exception(
+Exception: Error calling list_inventory. Status code: 422. Response: {"detail":[{"type":"missing","loc":["body"],"msg":"Field required","input":null}]}
+:     192.168.186.138:44270 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:44274 - "POST /sse/messages/?session_id=a4a34143916244cbb838d66752476469 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:44288 - "POST /sse/messages/?session_id=a4a34143916244cbb838d66752476469 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:44298 - "POST /sse/messages/?session_id=a4a34143916244cbb838d66752476469 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:44298 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:58592 - "POST /sse/messages/?session_id=8f949c63a11b4224a980a0ce7b83e21e HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58606 - "POST /sse/messages/?session_id=8f949c63a11b4224a980a0ce7b83e21e HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58616 - "POST /sse/messages/?session_id=8f949c63a11b4224a980a0ce7b83e21e HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58616 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:58620 - "POST /sse/messages/?session_id=bb8d205bfd7746829187792c3b3b8904 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58636 - "POST /sse/messages/?session_id=bb8d205bfd7746829187792c3b3b8904 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58650 - "POST /sse/messages/?session_id=bb8d205bfd7746829187792c3b3b8904 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58650 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:58664 - "POST /sse/messages/?session_id=4da113f58c944be99448bd2d6224e214 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58666 - "POST /sse/messages/?session_id=4da113f58c944be99448bd2d6224e214 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58678 - "POST /sse/messages/?session_id=4da113f58c944be99448bd2d6224e214 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58678 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:58694 - "POST /sse/messages/?session_id=ad717b94561d4cb7a3ee618e4f6945cd HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58702 - "POST /sse/messages/?session_id=ad717b94561d4cb7a3ee618e4f6945cd HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58712 - "POST /sse/messages/?session_id=ad717b94561d4cb7a3ee618e4f6945cd HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58712 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:46230 - "POST /sse/messages/?session_id=0b63f5dd49e14d1e8584348ed074423a HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:46232 - "POST /sse/messages/?session_id=0b63f5dd49e14d1e8584348ed074423a HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:46244 - "POST /sse/messages/?session_id=0b63f5dd49e14d1e8584348ed074423a HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:46244 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:46260 - "POST /sse/messages/?session_id=5f5cba4bc1d345048727d6864245cff9 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:46272 - "POST /sse/messages/?session_id=5f5cba4bc1d345048727d6864245cff9 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:46288 - "POST /sse/messages/?session_id=5f5cba4bc1d345048727d6864245cff9 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58104 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:58108 - "POST /sse/messages/?session_id=7fcbf9d1f9e044069d0a07eb3a70d3d1 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58116 - "POST /sse/messages/?session_id=7fcbf9d1f9e044069d0a07eb3a70d3d1 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:58126 - "POST /sse/messages/?session_id=7fcbf9d1f9e044069d0a07eb3a70d3d1 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:59616 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:59624 - "POST /sse/messages/?session_id=7418c8089e6349bbab7a55e599d183c4 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:59634 - "POST /sse/messages/?session_id=7418c8089e6349bbab7a55e599d183c4 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:59650 - "POST /sse/messages/?session_id=7418c8089e6349bbab7a55e599d183c4 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:44410 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:44414 - "POST /sse/messages/?session_id=ae9ba53737c54e9ea715f9666d845eb5 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:44430 - "POST /sse/messages/?session_id=ae9ba53737c54e9ea715f9666d845eb5 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:44442 - "POST /sse/messages/?session_id=ae9ba53737c54e9ea715f9666d845eb5 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54462 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:54472 - "POST /sse/messages/?session_id=a8e634f0cde34e5cbf3b07c9da1699d7 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54476 - "POST /sse/messages/?session_id=a8e634f0cde34e5cbf3b07c9da1699d7 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54480 - "POST /sse/messages/?session_id=a8e634f0cde34e5cbf3b07c9da1699d7 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54480 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:54490 - "POST /sse/messages/?session_id=a5082e85944745b49ea64687a3d71b34 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54500 - "POST /sse/messages/?session_id=a5082e85944745b49ea64687a3d71b34 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54502 - "POST /sse/messages/?session_id=a5082e85944745b49ea64687a3d71b34 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54502 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:54516 - "POST /sse/messages/?session_id=6a1effb814484542b80e2717f5923677 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54526 - "POST /sse/messages/?session_id=6a1effb814484542b80e2717f5923677 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54542 - "POST /sse/messages/?session_id=6a1effb814484542b80e2717f5923677 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54542 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:54558 - "POST /sse/messages/?session_id=6c746665a00740d1b425ba42a36409ad HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54566 - "POST /sse/messages/?session_id=6c746665a00740d1b425ba42a36409ad HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54578 - "POST /sse/messages/?session_id=6c746665a00740d1b425ba42a36409ad HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:54578 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:34424 - "POST /sse/messages/?session_id=e9ef76ddac9b4c77bb5d59b56098ca27 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:34436 - "POST /sse/messages/?session_id=e9ef76ddac9b4c77bb5d59b56098ca27 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:34452 - "POST /sse/messages/?session_id=e9ef76ddac9b4c77bb5d59b56098ca27 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:42452 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:42464 - "POST /sse/messages/?session_id=030d26d8e14547f6bd5879670942c2c4 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:42466 - "POST /sse/messages/?session_id=030d26d8e14547f6bd5879670942c2c4 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:42476 - "POST /sse/messages/?session_id=030d26d8e14547f6bd5879670942c2c4 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:42476 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:42480 - "POST /sse/messages/?session_id=67f4633a32424500a4c6c6c851a6507e HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:42492 - "POST /sse/messages/?session_id=67f4633a32424500a4c6c6c851a6507e HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:42494 - "POST /sse/messages/?session_id=67f4633a32424500a4c6c6c851a6507e HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:45904 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:45916 - "POST /sse/messages/?session_id=1a08cbdcdf14472ba2ae61461feb4088 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:45918 - "POST /sse/messages/?session_id=1a08cbdcdf14472ba2ae61461feb4088 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:45926 - "POST /sse/messages/?session_id=1a08cbdcdf14472ba2ae61461feb4088 HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:45926 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:45936 - "POST /sse/messages/?session_id=c31025baa30f446db3ee042425070efb HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:45950 - "POST /sse/messages/?session_id=c31025baa30f446db3ee042425070efb HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:45954 - "POST /sse/messages/?session_id=c31025baa30f446db3ee042425070efb HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:36728 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:36738 - "POST /sse/messages/?session_id=5421a0b8505444488ee2835424ae945d HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:36750 - "POST /sse/messages/?session_id=5421a0b8505444488ee2835424ae945d HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:36754 - "POST /sse/messages/?session_id=5421a0b8505444488ee2835424ae945d HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:53094 - "GET /sse HTTP/1.1" 200 OK
+INFO:     192.168.186.138:53108 - "POST /sse/messages/?session_id=e26516235d0e4652aeb5919caae9fd2a HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:53116 - "POST /sse/messages/?session_id=e26516235d0e4652aeb5919caae9fd2a HTTP/1.1" 202 Accepted
+INFO:     192.168.186.138:53132 - "POST /sse/messages/?session_id=e26516235d0e4652aeb5919caae9fd2a HTTP/1.1" 202 Accepted

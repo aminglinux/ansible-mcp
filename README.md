@@ -29,5 +29,4 @@ curl -N -X POST http://localhost:8080/tools/run_playbook \
 ```
 
 ## 接入Dify/Coze
-在 MCP 配置中填入： 
-http://<your-host>:8080/.well-known/mcp.json
+在 MCP 配置中填入： http://<your-host>:8080/.well-known/mcp.json
